@@ -1,9 +1,9 @@
 {
   "name": "flexslider",
-  "description": "Flexslider responsive slider",
-  "homepage": "https://github.com/timmyg/meteor-flexslider",
-  "author": "Tim Giblin",
-  "version": "0.0.2",
-  "git": "https://github.com/timmyg/meteor-flexslider.git",
+  "description": "Flexslider responsive slider, forked from timmyg@github... unminified js",
+  "homepage": "https://github.com/johannesma/meteor-flexslider",
+  "author": "Johannes Ma",
+  "version": "0.0.1",
+  "git": "https://github.com/johannesma/meteor-flexslider.git",
   "packages": {}
 }
