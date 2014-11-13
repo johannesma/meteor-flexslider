@@ -1,5 +1,6 @@
 Package.describe({
   summary: "Load flexslider into your Meteor project."
+  version: "0.0.1"
 });
 
 Package.on_use(function(api) {
